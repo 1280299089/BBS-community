@@ -1,4 +1,4 @@
-# tequila
+# bbs and tequila
 Tequila is a website contributed to give answers to rookies
 * Using Python3
 * Bulding with Tornado 5
